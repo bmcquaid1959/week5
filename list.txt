@@ -1,0 +1,530 @@
+
+https://rmarkdown.rstudio.com/lesson-13.html | R Markdown Websites
+https://github.com/rstudio/htmltools | rstudio/htmltools: Tools for HTML generation and output
+https://rmarkdown.rstudio.com/articles.html | R Markdown Gallery
+https://bookdown.org/yihui/rmarkdown/ | R Markdown: The Definitive Guide
+https://github.com/thegeeklab/hugo-geekdoc | thegeeklab/hugo-geekdoc: Hugo theme made for documentation
+https://www.screencast.com/users/drmcquaid | drmcquaid's Items
+https://bookdown.org/yihui/blogdown/a-quick-example.html#serve-site | 1.2 A quick example | blogdown: Creating Websites with R Markdown
+https://hugothemesfree.com/a-hugo-theme-for-technical-documentation-sets/ | A Hugo theme for technical documentation sets
+https://docport.netlify.app/shortcodes/alert/ | alert :: DocPort Documentation
+https://happygitwithr.com/rstudio-see-git.html | Chapter 13 Detect Git from RStudio | Happy Git and GitHub for the useR
+https://geekdocs.de/usage/getting-started/#install-requirements | Getting Started | Geekdocs
+https://windowsreport.com/update-node-js-windows/ | How to update node.js on Windows
+
+https://www.majorgeeks.com/mg/topdownloads/index.html | MajorGeeks.Com - Top Downloads - MajorGeeks
+https://www.stardock.com/products/odnt/#purchase | Object Desktop: A Powerful suite of Windows desktop enhancements
+https://developer.android.com/studio/command-line/adb?authuser=1#connect-to-a-device-over-wi-fi-android-11+ | Android Debug Bridge (adb)  |  Android Developers
+http://adbcommand.com/adbshell | adb commands reference | Android Debug Bridge (ADB) Commands Manual
+https://remotedesktop.google.com/access/ | Remote Access - Chrome Remote Desktop
+https://www.gadgethacks.com/ | Gadget Hacks » Smartphone Lifehacks, Guides, Tips, Tricks & How-Tos
+
+https://www.howtogeek.com/436615/how-to-create-desktop-shortcuts-on-windows-10-the-easy-way/ | How to Create Desktop Shortcuts on Windows 10 the Easy Way
+https://xenovation.com/blog/source-control-management/git/how-to-change-remote-git-repository | How to change remote git repository | XENOVATION
+https://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/ | How to use Git with R and RStudio | Reproducible Research Workshop
+https://docs.github.com/en/get-started/quickstart/set-up-git | Set up Git - GitHub Docs
+https://support.rstudio.com/hc/en-us/articles/200532077?version=2022.02.0%2B443&mode=desktop | Version Control with Git and SVN – RStudio Support
+
+https://blog.danskingdom.com/allow-others-to-run-your-powershell-scripts-from-a-batch-file-they-will-love-you-for-it/ | Provide A Batch File To Run Your PowerShell Script From; Your Users Will Love You For It - Daniel Schroeder’s Programming Blog
+https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner%27s-guide/ | RStudio Projects and Working Directories: A Beginner's Guide – Musings on R – A blog on all things R and Data Science by Martin Chan
+https://chrisvoncsefalvay.com/2018/08/09/structuring-r-projects/ | How you, too, can structure R projects like a professional | Chris von Csefalvay: Bits and Bugs
+https://www.datacamp.com/community/tutorials/functions-in-r-a-tutorial | A Tutorial on Using Functions in R! (and their scoping) - DataCamp
+https://www.datacamp.com/community/tutorials/r-packages-guide | R Packages Tutorial: How to Download & Install Packages - DataCamp
+
+https://howchoo.com/chocolatey/uninstall-programs-with-chocolatey | How to Uninstall Programs With Chocolatey - Howchoo
+https://community.chocolatey.org/packages?q=obs+ | Chocolatey Software | Packages matching obs
+https://www.howtogeek.com/165293/how-to-get-a-list-of-software-installed-on-your-pc-with-a-single-command/ | How to Create a List of Your Installed Programs on Windows
+https://www.wintips.org/view-installed-apps-and-packages-in-windows-10-8-1-8-from-powershell/#:~:text=for%20All%20Users.-,A.,%2DAllUsers%20%7C%20Select%20Name%2C%20PackageFullName | How to view all installed Apps & Packages in Windows 10, 8.1, 8 from PowerShell. - wintips.org - Windows Tips & How-tos
+https://techgenix.com/how-to-uninstall-software-using-powershell/ | How to Uninstall Software Using PowerShell
+https://docs.microsoft.com/en-us/answers/questions/136376/powershell-script-to-export-all-software-informati.html | Powershell script to export all software information installed in a domain system - Microsoft Q&A
+
+https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages | Quick list of useful R packages – RStudio Support
+https://cloud.r-project.org/ | The Comprehensive R Archive Network
+https://www.webnots.com/view-webpage-source-css-in-google-chrome/ | View Webpage Source HTML, CSS and JavaSCript in Google Chrome – WebNots
+https://education.rstudio.com/learn/beginner/ | RStudio Education
+https://www.rstudio.com/collections/rstudio-essentials/ | RStudio Essentials - RStudio
+https://r4ds.had.co.nz/exploratory-data-analysis.html | 7 Exploratory Data Analysis | R for Data Science
+https://moderndive.netlify.app/1-getting-started.html | Chapter 1 Getting Started with Data in R | Statistical Inference via Data Science
+https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-0/ | Unit 3: VizW(h)iz | R-Ladies Sydney
+https://training.github.com/ | Git Cheat Sheets - GitHub Cheatsheets
+https://www.gitkraken.com/ | GitKraken Legendary Git Tools | GitKraken
+https://code.visualstudio.com/docs/editor/github#_editor-integration | Working with GitHub in Visual Studio Code
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github | GitHub Pull Requests and Issues - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r | R - Visual Studio Marketplace
+http://127.0.0.1:5500/EmailW1.html | 127.0.0.1:5500/EmailW1.html
+view-source:http://127.0.0.1:5500/EmailW1.html | view-source:127.0.0.1:5500/EmailW1.html
+https://shiny.rstudio.com/tutorial/ | Shiny - Tutorial
+https://github.com/asciidocfx/AsciidocFX#books-written-with-asciidocfx | asciidocfx/AsciidocFX: Asciidoc Editor and Toolchain written with JavaFX 16 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+https://mail.google.com/mail/u/0/#inbox | Inbox (14,916) - bob.mcquaid@pepperdine.edu - Pepperdine University Mail
+
+https://www.cnn.com/2022/02/25/golf/harold-varner-iii-gotm-spc-spt-intl/index.html | Harold Varner III says monster 92-foot eagle putt to win tournament is 'No. 1' moment in golf career - CNN
+https://www.techrepublic.com/article/how-to-connect-an-android-smartphone-to-microsoft-windows-10/ | How to connect an Android smartphone to Microsoft Windows 10 | TechRepublic
+https://rmarkdown.rstudio.com/index.html | R Markdown
+https://bookdown.org/yihui/rmarkdown/html-document.html# | 3.1 HTML document | R Markdown: The Definitive Guide
+https://github.com/Genymobile/scrcpy | Genymobile/scrcpy: Display and control your Android device
+https://www.digitaltrends.com/mobile/how-to-get-developer-options-on-android/#dt-heading-how-to-access-developer-options-in-android | How to Get Developer Options on Android | Digital Trends
+https://www.geeksforgeeks.org/mirror-android-screen-to-pc-using-scrcpy/ | Mirror Android Screen to PC using scrcpy - GeeksforGeeks
+https://www.voidtools.com/ | voidtools
+https://community.chocolatey.org/packages?q=kramm | Chocolatey Software | Packages matching kramm
+https://www.google.com/search?q=how+to+track+non-chocolatey+programs&rlz=1C1SQJL_enUS903US903&biw=1253&bih=927&sxsrf=APq-WBuXFdtG54R_4qbmNbWBPUN7U4WTAg%3A1646607509958&ei=lTwlYpiPOtDJkPIP4N-VgAI&ved=0ahUKEwjYrdz9yrL2AhXQJEQIHeBvBSAQ4dUDCA4&uact=5&oq=how+to+track+non-chocolatey+programs&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgQIIxAnOg0ILhDHARDRAxDUAhBDOgQIABBDOgsILhCABBDHARCjAjoRCC4QgAQQsQMQgwEQxwEQ0QM6BQgAEIAEOg4ILhCABBCxAxDHARCjAjoICAAQgAQQsQM6CggAEIAEEIcCEBQ6FAguEIAEELEDEIMBEMcBEKMCEIsDOhEILhCABBCxAxDHARCjAhCLAzoICAAQgAQQiwM6BQgAEJECOggILhCxAxCDAToICC4QgAQQiwM6CwgAEIAEELEDEIsDOggILhCABBCxAzoLCC4QgAQQsQMQiwM6BwgAEAoQiwM6CgguELEDEAoQiwM6CggAELEDEAoQiwM6BwguELEDEAo6EAguENQCEAoQiwMQqAMQpAM6CwguEIAEEMcBEK8BOgcIABCABBAKOggIABCxAxCRAjoHCAAQsQMQCjoECAAQCjoKCC4QsQMQ1AIQCjoHCAAQyQMQCjoGCAAQFhAeOggIABAWEAoQHjoRCC4QgAQQsQMQgwEQxwEQowI6CwgAEIAEELEDEIMBOg0IABCxAxCDARAKEIsDOgoILhDHARDRAxBDOgsIABCxAxCDARCLAzoICC4QgAQQ1AI6CAgAEIAEEMkDOggIIRAWEB0QHjoFCAAQhgNKBAhBGABKBAhGGABQAFjdhzRg1Yg0aAJwAXgAgAGpAYgB_C-SAQUyNS4zMJgBAKABAbgBAsABAQ&sclient=gws-wiz | how to track non-chocolatey programs - Google Search
+https://stackoverflow.com/questions/33462720/adb-unable-to-connect-to-192-168-1-105555 | android - ADB : unable to connect to 192.168.1.10:5555 - Stack Overflow
+
+https://powerman.name/doc/asciidoc | AsciiDoc cheatsheet
+
+https://blog.dataiku.com/2019/07/04/fundamental-steps-data-project-success | 7 Fundamental Steps to Complete a Data Analytics Project
+https://www.r-bloggers.com/2020/11/4-r-projects-to-form-a-core-data-analyst-portfolio/ | 4 R projects to form a core data analyst portfolio | R-bloggers
+https://towardsdatascience.com/12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03 | 12 Cool Data Science Projects Ideas for Beginners and Experts | by Claire D. Costa | Towards Data Science
+https://www.simplilearn.com/data-science-projects-article | Best 6 Data Science Projects for Beginners to Get Hired in 2022
+https://medium.com/@birappa.001/5-data-analytics-projects-for-beginners-17846d74062d | 5 Data Analytics projects for beginners | by Birappa Goudanavar | Medium
+https://www.upgrad.com/blog/data-science-projects-in-r-for-beginners/ | 8 Astonishing Data Science Projects in R For Beginners [2022] | upGrad blog
+https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-project-ideas/ | 9 Project Ideas For Your Data Analytics Portfolio [2022]
+https://towardsdatascience.com/26-datasets-for-your-data-science-projects-658601590a4c | 26 Datasets For Your Data Science Projects | by Yash Prakash | Towards Data Science
+https://www.jigsawacademy.com/blogs/business-analytics/data-analytics-project/ | Top 10 Data Analytics Projects
+https://www.projectpro.io/article/big-data-analytics-projects-for-students-/436 | Top 20 Data Analytics for Students to Practice in 2022
+https://www.kaggle.com/datasets | Find Open Datasets and Machine Learning Projects | Kaggle
+https://www.r-bloggers.com/2018/09/r-code-best-practices/ | R Code – Best practices | R-bloggers
+https://data-flair.training/blogs/data-science-r-sentiment-analysis-project/ | Top Data Science Project - Sentiment Analysis Project in R - DataFlair
+https://www.red-gate.com/simple-talk/databases/sql-server/bi-sql-server/text-mining-and-sentiment-analysis-with-r/ | Text Mining and Sentiment Analysis: Analysis with R - Simple Talk
+
+https://www.r-bloggers.com/2016/09/why-you-need-version-control/ | Why you need version control | R-bloggers
+https://www.r-bloggers.com/2017/11/changes-easy-git-based-version-control-from-r/ | changes: easy Git-based version control from R | R-bloggers
+https://www.r-bloggers.com/2012/03/a-crash-course-in-git-for-data-scientists/ | A Crash Course in git for Data Scientists | R-bloggers
+
+https://adv-r.hadley.nz/index.html | Welcome | Advanced R
+https://www.tidytextmining.com/index.html | Welcome to Text Mining with R | Text Mining with R
+https://bookdown.org/yihui/rmarkdown/ | R Markdown: The Definitive Guide
+
+https://vivaldi.com/ | Vivaldi Browser | Now with built-in Translate, Mail, and Calendar
+https://www.r-project.org/ | R: The R Project for Statistical Computing
+https://www.rstudio.com/ | RStudio | Open source & professional software for data science teams - RStudio
+https://code.visualstudio.com/ | Visual Studio Code - Code Editing. Redefined
+https://www.markdownguide.org/ | Markdown Guide
+https://rmarkdown.rstudio.com/ | R Markdown
+https://app.diagrams.net/?src=about | diagrams.net
+https://mermaid.live/edit#pako:eNpVkE1qw0AMha8itEohvoAXhcZOsgmk0Ow8WQiPnBmS-WEsU4Ltu3ccU2i1kt77nhAasQ2ascRbomjgUisPuT6ayiTbi6P-CkXxPh1ZwAXPzwl2m2OA3oQYrb-9rfxugaAaTwvGIMb6-7xa1St_9jxB3ZwoSojXv87lO0ywb-ynyev_OyZxTh2ajsqOipYSVJReCG7RcXJkdT59XBSFYtixwjK3mjsaHqJQ-TmjQ9QkvNdWQsJS0sBbpEHC19O3v_PK1JbyI9wqzj8k-lxH | Online FlowChart & Diagrams Editor - Mermaid Live Editor
+https://www.selenium.dev/ | Selenium
+
+https://www.amazon.com/gp/css/summary/print.html/ref=ppx_yo_dt_b_invoice_o01?ie=UTF8&orderID=112-6042748-2096257 | Amazon.com - Order 112-6042748-2096257
+https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package | Manual installation steps for older versions of WSL | Microsoft Docs
+https://docs.ropensci.org/RSelenium/articles/docker.html#introduction | Docker • RSelenium
+https://www.rdocumentation.org/packages/RSelenium/versions/1.7.7/topics/rsDriver | rsDriver function - RDocumentation
+https://stackoverflow.com/questions/61950706/r-selenium-server-signals-port-4567-is-already-in-use | rselenium - R: Selenium server signals port = 4567 is already in use - Stack Overflow
+https://jlaw.netlify.app/2021/05/03/scraping-google-play-reviews-with-rselenium/ | Scraping Google Play Reviews with RSelenium | JLaw's R Blog
+https://www.datacamp.com/community/tutorials/tutorial-on-loops-in-r | A Loops in R Tutorial- Usage and Alternatives - DataCamp
+https://www.analyticssteps.com/blogs/data-scraping-r-programming-part-3-importing-tables-html-cleaning-and-more | Data Scraping in R Programming: Part 3 (Importing Tables from HTML, Cleaning, and more) | Analytics Steps
+https://messages.google.com/web/conversations/2?redirected=true | Messages for web
+
+https://www.amazon.com/gp/your-account/order-history?opt=ab&digitalOrders=1&unifiedOrders=1&returnTo=&orderFilter=year-2021&search=&startIndex=80 | Your Orders
+https://www.amazon.com/gp/your-account/order-history?opt=ab&digitalOrders=1&unifiedOrders=1&returnTo=&orderFilter=year-2021&search=&startIndex=0 | Your Orders
+https://community.rstudio.com/t/save-as-from-a-web-page/54364/2 | "Save as" from a web page - General - RStudio Community
+https://www.tutorialspoint.com/how-to-get-page-source-as-it-is-in-browser-using-selenium | How to get page source as it is in browser using selenium?
+https://www.rdocumentation.org/packages/seleniumPipes/versions/0.3.7/topics/getPageSource | getPageSource function - RDocumentation
+https://cran.r-project.org/web/packages/RSelenium/vignettes/basics.html | Basics
+https://docs.docker.com/desktop/windows/ | Docker Desktop for Windows user manual | Docker Documentation
+https://docs.docker.com/desktop/ | Docker Desktop overview | Docker Documentation
+https://www.rstudio.com/products/rstudio/download/#download | Download the RStudio IDE - RStudio
+
+https://www.makeuseof.com/tag/create-markdown-table/ | How to Create a Markdown Table
+https://davidgohel.github.io/flextable/index.html | Functions for Tabular Reporting • flextable
+https://tablesgenerator.com/latex_tables | Create LaTeX tables online – TablesGenerator.com
+https://www.latex-tables.com/# | LaTeX Tables Editor
+https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_hello | Tryit Editor v3.7
+
+https://www.domainnamesanity.com/blog/how-much-data-does-online-gaming-use/ | How Much Data Does Online Gaming Use? - Domain Name Sanity Blog
+https://www.waveform.com/pages/cell-phone-signal-booster-guide | Cell Phone Signal Boosters: The Definitive Guide [2021 Edition]
+https://www.wired.com/story/best-unlimited-data-plans/ | The Best Unlimited Data Plan and Family Plan for 2021 (T-Mobile vs. AT&T vs. Verizon) | WIRED
+https://www.thegamingman.com/is-400-mbps-good-enough-for-gaming-learn-why-its-fast/ | Is 400 Mbps Good Enough For Gaming? (Learn Why It’s FAST) – www.www.thegamingman.com
+https://www.opensignal.com/networks/usa/t-mobile-coverage | T-Mobile Mobile Coverage in USA | Opensignal
+https://www.rootmetrics.com/en-US/home | RootMetrics
+
+https://annalisanguyen.medium.com/5-useful-research-tools-c36f28c5c9d4 | 5 Useful Research Tools. Researching is a long journey filled… | by Anna-Lisa Nguyen | Medium
+https://www.connectedpapers.com/main/eed5f316927aad8c9ea0d76a424f3f6ed30a9efa/Lessons-from-seru-production-on-manufacturing-competitively-in-a-high-cost-environment/prior | Lessons from seru production on manufacturing competitively in a high cost environment
+https://www.geeksforgeeks.org/branch-and-bound-algorithm/ | Branch and Bound Algorithm - GeeksforGeeks
+https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/ | 0-1 Knapsack Problem | DP-10 - GeeksforGeeks
+https://s2.smu.edu/~olinick/cse3360/lectures/b-and-b/l22.html | Branch-and-Bound for Integer Programming Problems
+
+http://www.refworks.com/refworks2/default.aspx?r=references|MainLayout::init | RefWorks Web Based Bibliographic Management Software
+https://calendar.google.com/calendar/u/0/r/month | Pepperdine University - Calendar - October 2021
+https://improveism.com/zettelkasten-method-smart-notes/ | Zettelkasten Method: How to Take Smart Notes (A Beginner's Guide)
+https://www.notion.so/f985762424b54d05a1eb58312826b2d1?v=ace63be4fefa4cf19b3b679405fb91c7 | Awesome Finds | Detailed view
+https://www.nrel.colostate.edu/set-up-best-reference-manager/ | This is how I did it: created the best reference manager set up for research & writing – Natural Resource Ecology Laboratory at Colorado State University
+https://zettelkasten.de/posts/create-zettel-from-reading-notes/ | Create Zettel from Reading Notes According to the Principle of Atomicity • Zettelkasten Method
+https://zettelkasten.de/posts/making-proper-marks-in-books/ | Making Proper Marks in Books • Zettelkasten Method
+https://www.zotero.org/ | Zotero | Your personal research assistant
+https://provalisresearch.com/products/qualitative-data-analysis-software/ | Qualitative Data Analysis Software, Mixed Methods Research Tool
+https://provalisresearch.com/resources/tutorials/ | Provalis Research Text Analytics Tools - Video tutorials
+https://obsidian.md/ | Obsidian
+
+https://keepproductive.podia.com/obsidian-made-simple | Obsidian Made Simple Course
+https://docs.asciidoctor.org/asciidoctor/latest/features/ | Features :: Asciidoctor Docs
+https://provalisresearch.com/resources/tutorials/ | Provalis Research Text Analytics Tools - Video tutorials
+https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca | Load the Solver Add-in in Excel
+https://doodle.com/poll/737gtyuh6ppr34u6 | Doodle | Weekly Class Schedule
+https://community.pepperdine.edu/it/students/newstudents/student-discount.htm | Student Discounts | Pepperdine University | Pepperdine Community
+https://www.microsoft.com/en-us/education/products/office | Free Microsoft Office 365 for Schools & Students | Microsoft Education
+https://www.solver.com/excel-solver-how-load-or-start-solver | Excel Solver - How to load or start Solver | solver
+https://community.pepperdine.edu/it/tools/qualtrics/ | Qualtrics | Pepperdine University | Pepperdine Community
+https://pepperdine.ca1.qualtrics.com/survey-builder/SV_6PxOKUYrbizZ5Qy/edit?SurveyID=SV_6PxOKUYrbizZ5Qy | Edit Survey | Qualtrics Experience Management
+https://www.google.com/search?q=self+assessment+questions+for+students+word+problems&rlz=1C1SQJL_enUS903US903&biw=1364&bih=921&sxsrf=AOaemvKGzOyM7WxcI-scpy9qdg4KL0msZQ%3A1634582691950&ei=o8BtYeWCOeWc_QaN5ZqgBA&ved=0ahUKEwil4NWFz9TzAhVlTt8KHY2yBkQ4ChDh1QMIDg&uact=5&oq=self+assessment+questions+for+students+word+problems&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BwgAEEcQsAM6BAghEApKBAhBGABQ7ElY-lxg3WVoAnACeACAAcoBiAGeC5IBBjAuMTAuMZgBAKABAcgBA8ABAQ&sclient=gws-wiz | self assessment questions for students word problems - Google Search
+
+https://www.acrosswalls.org/ortext-datalinks/list-google-drive-folder-file-names-urls/ | List Google Drive Folder File Names and URLs to a Google Sheet | Communicating with Prisoners
+https://webapps.stackexchange.com/questions/86846/getting-all-files-file-id-from-a-folder-in-google-drive | Getting all files' file-id from a folder in Google Drive - Web Applications Stack Exchange
+https://www.labnol.org/code/19538-file-sharing-permissions | File Permissions and Sharing Settings in Google Drive - Digital Inspiration
+https://drive.google.com/drive/folders/1l-gQ9OqnqVhZj9jOJrjwN02gnc0WK2s0 | ReturnedItems - Google Drive
+https://docs.google.com/spreadsheets/d/1yXqilMAOb0aMp9e22yLV70MfDf6ZdqzjThOzxZXmKU4/edit#gid=0 | ListFiles - Google Sheets
+https://script.google.com/home/projects/1yTJR81JDknDyuzf7_L-OOnnEk6q82pJLerudGMniWUDbI_XUVXsLDWIx/edit | ListFiles - Project Editor - Apps Script
+https://www.labnol.org/internet/direct-links-for-google-drive/28356/ | Simple URL Tricks for Google Drive You Should Know - Digital Inspiration
+https://www.pbainbridge.co.uk/2020/04/drive-api-share-file-without-email.html | The Gift of Script: Drive API - share a file without email notification
+https://developers.google.com/drive/api/v3/mime-types | Google Workspace and Drive MIME Types  |  Google Drive API
+https://developers.google.com/drive/api/v3/manage-sharing | Share files, folders and drives  |  Google Drive API  |  Google Developers
+https://www.labnol.org/internet/google-scripts/28281/ | The Most Popular and Useful Google Scripts - Digital Inspiration
+https://www.labnol.org/internet/google-drive-access/28237/ | Find Who has Access to your Google Drive Files and Folders - Digital Inspiration
+https://www.labnol.org/internet/google-apps-script-developers/32305/ | Google Apps Script for Developers - Digital Inspiration
+https://stackoverflow.com/questions/50823383/referenceerror-drive-is-not-defined | google apps script - ReferenceError: "Drive" is not defined - Stack Overflow
+https://www.labnol.org/code/20101-share-files-google-drive-without-email-notifications | Share Files in Google Drive without Sending Email Notifications - Digital Inspiration
+https://stackoverflow.com/questions/51836325/writing-the-result-of-geteditors-and-getviewers-to-google-sheets | Writing the result of getEditors and getViewers to Google Sheets - Stack Overflow
+
+https://www.youtube.com/results?search_query=hugo+mathjax | (1) hugo mathjax - YouTube
+https://www.youtube.com/watch?v=9Jqvaoeh1W4 | (1) Best R Hugo Blogdown Site End to End Tutorial - YouTube
+https://www.youtube.com/watch?v=-9uuyJzWzCI | (1) Making A Website with RStudio Part 1 - YouTube
+https://www.youtube.com/watch?v=338jZbCVXcw | (1) Hugo Blogdown Tutorial with R RStudio Customize Menus Layouts - YouTube
+https://www.youtube.com/watch?v=i674siHQoRo | (1) YCGS - Making a Website in R! (Ep. 8) - YouTube
+https://www.youtube.com/watch?v=OG_i6WzRvL4 | (1) Blogdown Hugo to GitHub with RStudio - YouTube
+
+https://latexeditor.lagrida.com/ | Online LaTeX Equation Editor
+https://www.tablesgenerator.com/html_tables | HTML Tables generator – TablesGenerator.com
+https://mermaid-js.github.io/mermaid-live-editor/edit/#eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0NocmlzdG1hc10gLS0-fEdldCBtb25leXwgQihHbyBzaG9wcGluZylcbiAgICBCIC0tPiBDe0xldCBtZSB0aGlua31cbiAgICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICAgIEMgLS0-fFR3b3wgRVtpUGhvbmVdXG4gICAgQyAtLT58VGhyZWV8IEZbZmE6ZmEtY2FyIENhcl1cbiAgIiwibWVybWFpZCI6IntcbiAgXCJ0aGVtZVwiOiBcImRlZmF1bHRcIlxufSIsInVwZGF0ZUVkaXRvciI6dHJ1ZSwiYXV0b1N5bmMiOnRydWUsInVwZGF0ZURpYWdyYW0iOnRydWV9 | Online FlowChart & Diagrams Editor - Mermaid Live Editor
+https://stackedit.io/app# | StackEdit
+https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_default | Tryit Editor v3.6
+https://readme.so/editor | readme.so - Easiest Way to Create A README
+
+https://excelchamps.com/blog/vba-code-search-google-chrome/ | Use this VBA Code to Search on Google using Excel [Chrome Version]
+https://stackoverflow.com/questions/20458406/what-is-the-format-of-chromes-timestamps | sqlite - What is the format of Chrome's timestamps? - Stack Overflow
+https://datacarpentry.org/R-ecology-lesson/05-r-and-databases.html | SQL databases and R
+https://sqlite.org/lang_datefunc.html | Date And Time Functions
+
+http://www.sthda.com/english/wiki/descriptive-statistics-and-graphics | Descriptive Statistics and Graphics - Easy Guides - Wiki - STHDA
+http://www.sthda.com/english/wiki/comparing-means-in-r | Comparing Means in R - Easy Guides - Wiki - STHDA
+http://www.r-tutor.com/elementary-statistics/interval-estimation/interval-estimate-population-mean-known-variance | Interval Estimate of Population Mean with Known Variance | R Tutorial
+http://www.r-tutor.com/elementary-statistics/interval-estimation/interval-estimate-population-mean-unknown-variance | Interval Estimate of Population Mean with Unknown Variance | R Tutorial
+http://www.sthda.com/english/wiki/comparing-proportions-in-r | Comparing Proportions in R - Easy Guides - Wiki - STHDA
+http://www.r-tutor.com/elementary-statistics/interval-estimation/interval-estimate-population-proportion | Interval Estimate of Population Proportion | R Tutorial
+http://www.sthda.com/english/wiki/comparing-variances-in-r | Comparing Variances in R - Easy Guides - Wiki - STHDA
+http://www.sthda.com/english/wiki/normality-test-in-r | Normality Test in R - Easy Guides - Wiki - STHDA
+http://www.sthda.com/english/articles/40-regression-analysis/166-predict-in-r-model-predictions-and-confidence-intervals#confidence-interval | Predict in R: Model Predictions and Confidence Intervals - Articles - STHDA
+http://www.sthda.com/english/articles/40-regression-analysis/168-multiple-linear-regression-in-r#read-also | Multiple Linear Regression in R - Articles - STHDA
+http://www.sthda.com/english/articles/39-regression-model-diagnostics/160-multicollinearity-essentials-and-vif-in-r/ | Multicollinearity Essentials and VIF in R - Articles - STHDA
+http://www.sthda.com/english/articles/40-regression-analysis/164-interaction-effect-in-multiple-regression-essentials/ | Interaction Effect in Multiple Regression: Essentials - Articles - STHDA
+http://www.sthda.com/english/articles/32-r-graphics-essentials/125-ggplot-cheat-sheet-for-great-customization | GGPlot Cheat Sheet for Great Customization - Articles - STHDA
+http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page | ggplot2 - Easy Way to Mix Multiple Graphs on The Same Page - Articles - STHDA
+
+https://www.elegantthemes.com/blog/wordpress/top-vs-code-extensions-for-web-developers | 16 Top VS Code Extensions for Web Developers | Elegant Themes Blog
+https://tutorialzine.com/2017/06/15-essential-plugins-for-visual-studio-code | 15 Essential Plugins for Visual Studio Code - Tutorialzine
+https://medium.com/@bretcameron/7-essential-features-of-visual-studio-code-for-web-developers-be77e235bf62 | 7 Essential Features of Visual Studio Code for Web Developers | by Bret Cameron | Medium
+https://towardsdatascience.com/20-best-vs-code-extensions-for-productive-web-development-in-2020-95bf904ceb69 | 20 Best VS Code Extensions for Productive Web Development in 2020 | by Md Kamaruzzaman | Towards Data Science
+https://www.w3schools.com/css/css_navbar_horizontal.asp | CSS Horizontal Navigation Bar
+https://www.webucator.com/how-to/how-create-boxes-with-rounded-corners-css.cfm | How to Create Boxes with Rounded Corners in CSS | Webucator
+file:///C:/Users/bobmc/Downloads/StartMe-Export-2021-4-4-37a664e6d5288385.html | Bookmarks
+view-source:file:///C:/Users/bobmc/Downloads/StartMe-Export-2021-4-4-37a664e6d5288385.html | StartMe-Export-2021-4-4-37a664e6d5288385.html
+file:///D:/Dropbox/Productivity/ChromeNewTab/BobChromeTabNew.html | Document
+
+https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?hl=en | Save to Pocket - Chrome Web Store
+https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd?hl=en | Pushbullet - Chrome Web Store
+https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc | Tab Resize - split screen layouts - Chrome Web Store
+https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj | Checker Plus for Gmail™ - Chrome Web Store
+https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn | Google Scholar Button - Chrome Web Store
+https://chrome.google.com/webstore/detail/hey-habit/icjfbcjblodechjjiomddmjepanloeeb | Hey Habit - Chrome Web Store
+https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko | Session Buddy - Chrome Web Store
+https://sessionbuddy.com/topics/blog/ | The Latest – Session Buddy
+https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea?hl=en | Send to Kindle for Google Chrome - Chrome Web Store
+https://chrome.google.com/webstore/search/calendar | Chrome Web Store - calendar
+https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca | Momentum - Chrome Web Store
+https://chrome.google.com/webstore/detail/airstory/hbbiclkampjdicikmgffdlmpneocglgp | Airstory - Chrome Web Store
+https://chrome.google.com/webstore/detail/clockify-time-tracker/pmjeegjhjdlccodhacdgbgfagbpmccpe | Clockify Time Tracker - Chrome Web Store
+
+https://www.dataquest.io/blog/web-scraping-in-r-rvest/ | Tutorial: Web Scraping in R with rvest – Dataquest
+https://r4ds.had.co.nz/index.html | Welcome | R for Data Science
+https://uc-r.github.io/linear_regression | Linear Regression · UC Business Analytics R Programming Guide
+https://www.datacamp.com/community/tutorials/linear-regression-R | Linear Regression R - DataCamp
+http://r-statistics.co/Linear-Regression.html | Linear Regression With R
+https://www.statmethods.net/stats/regression.html | Quick-R: Multiple Regression
+http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/ | Simple Linear Regression in R - Articles - STHDA
+https://stats.idre.ucla.edu/r/seminars/introduction-to-regression-in-r/ | Introduction to Regression in R
+https://www.andrew.cmu.edu/user/achoulde/94842/lectures/lecture09/lecture09-94842.html | Lecture 9 - Linear regression in R
+https://bookdown.org/ndphillips/YaRrr/the-linear-model.html | YaRrr! The Pirate’s Guide to R
+https://medium.com/swlh/data-normalisation-with-r-6ef1d1947970 | Data Normalization With R. Preprocessing the data is one of the… | by Nikhita Singh Shiv Kalpana | The Startup | Medium
+https://towardsdatascience.com/7-steps-to-run-a-linear-regression-analysis-using-r-d5897a66b835 | 7 steps to run a linear regression analysis using R | by Tomomi A Emori | Towards Data Science
+https://diwashrestha.medium.com/4-dplyr-functions-for-data-analysis-7ca9276ac3d1 | 4 dplyr functions for Data Analysis | by Diwash Shrestha | Feb, 2021 | Medium
+https://dplyr.tidyverse.org/reference/summarise.html | Summarise each group to fewer rows — summarise • dplyr
+https://analyticssteps.com/blogs/data-scraping-r-programming-part-2-scraping-html-data | Data Scraping in R Programming: Part 2 (Scraping HTML Data) | Analytics Steps
+https://statisticsbyjim.com/regression/curve-fitting-linear-nonlinear-regression/ | Curve Fitting using Linear and Nonlinear Regression - Statistics By Jim
+https://www.infoworld.com/video/series/8563/do-more-with-r?sourcePath=morewithR | InfoWorld | Do More with R
+
+https://excelmacromastery.com/vba-userform/ | VBA UserForm - A Guide for Everyone - Excel Macro Mastery
+https://www.statisticshowto.com/exponential-distribution/ | Exponential Distribution / Negative Exponential: Definition, Examples - Statistics How To
+https://mathworld.wolfram.com/HypergeometricDistribution.html | Hypergeometric Distribution -- from Wolfram MathWorld
+
+https://github.com/fernandreu/office-ribbonx-editor/releases/tag/v1.8.0 | Release Office RibbonX Editor 1.8.0 (Build 990) · fernandreu/office-ribbonx-editor · GitHub
+https://www.excelcampus.com/vba/code-modules-event-procedures/ | VBA Code Modules & Event Procedures for Sheet & ThisWorkbook
+https://docs.microsoft.com/en-us/office/vba/api/Excel.Workbook#Anchor_2 | Workbook object (Excel) | Microsoft Docs
+https://docs.microsoft.com/en-us/office/vba/api/excel.worksheet | Worksheet object (Excel) | Microsoft Docs
+https://www.excelcampus.com/shortcuts/#t-1604947745733 | Excel Keyboard Shortcuts List - Excel Campus
+
+https://latex.codecogs.com/eqneditor/editor.php | Online LaTeX Equation Editor - create, integrate and download
+https://cran.r-project.org/web/packages/jtools/vignettes/summ.html#effect_plot | Tools for summarizing and visualizing regression models
+
+https://mail.google.com/mail/u/0/#inbox | Inbox (10,978) - bob.mcquaid@pepperdine.edu - Pepperdine University Mail
+https://towardsdatascience.com/using-r-for-exploratory-data-analysis-eda-analyzing-golf-stats-812b5feb077a | Using R for Exploratory Data Analysis (EDA) — Analyzing Golf Stats | by Jeff Griesemer | Towards Data Science
+chrome-extension://oinopeelpidbddmdhhllmpifaohjdkom/kanban.html | Kanbanly
+http://www.r-tutor.com/elementary-statistics/simple-linear-regression | Simple Linear Regression | R Tutorial
+
+https://dynalist.io/ | Dynalist
+https://www.thesaurus.com/browse/capable?s=t | Capable Synonyms: 64 Synonyms & Antonyms for Capable | Thesaurus.com
+https://stackedit.io/app# | StackEdit
+https://excelmacromastery.com/excel-vba-collections/ | The Ultimate Guide To Collections in Excel VBA - Excel Macro Mastery
+https://github.com/benweet/stackedit/blob/master/src/data/presets.js | stackedit/presets.js at master · benweet/stackedit · GitHub
+https://www.xelplus.com/excel-vba-check-if-file-folder-exists-dir/ | Excel VBA: Check If File or Folder Exists (DIR) - Xelplus - Leila Gharani
+https://www.lifetimedaily.com/label-for-romantic-partner/ | What to Label Your Romantic Partner When You're Older - Lifetime Daily
+https://social.msdn.microsoft.com/Forums/en-US/b34ad23a-21d0-4a1f-85fb-13572f757906/copyfile-runtime-error-76-path-not-found?forum=accessdev | CopyFile Run-Time error '76': Path not found
+https://www.listendata.com/2014/06/vba-for-next-loop.html | VBA : For - Next Loop
+http://www.ihi.org/Topics/TripleAim/Pages/default.aspx | Triple Aim for Populations | IHI - Institute for Healthcare Improvement
+chrome://bookmarks/?id=31 | Bookmarks
+https://www.amazon.com/Ember-Ceramic-Mug-White-Gen/dp/B07NQPYGYD?&linkCode=sl1&tag=0308wfhstuff-20&linkId=7ec8e15f93315bcdd5a3b62978b170b9&language=en_US&ref_=as_li_ss_tl | Amazon.com: NEW Ember Temperature Control Smart Mug 2, 10 oz, White, 1.5-hr Battery Life - App Controlled Heated Coffee Mug - Improved Design: Kitchen & Dining
+https://www.amazon.com/Rocketbook-Panda-Reusable-2021-Planner-Microfiber-Included/dp/B089DNKMG9?&linkCode=sl1&tag=0308wfhstuff-20&linkId=ef7ce08bded10d000a248df108fe3e74&language=en_US&ref_=as_li_ss_tl | Amazon.com: Rocketbook Panda Planner - Reusable 2021 Daily, Weekly, Monthly, Planner with 1 Pilot Frixion Pen & 1 Microfiber Cloth Included - Black Cover, Executive Size (6" x 8.8"): Office Products
+https://www.amazon.com/gp/product/B08D9D5X3B?linkCode=sl1&tag=0308wfhstuff-20&linkId=6fc4033f23cc8611fdd5cbaedabd8cfb&language=en_US&ref_=as_li_ss_tl&th=1 | Amazon.com : Elvira Half Gallon/64oz Motivational Time Marker Water Bottle with Straw & Protective Silicone Boot, BPA Free Anti-slip Leakproof for Fitness, Gym and Outdoor Sports-64oz-Green/Purple Gradient : Sports & Outdoors
+https://www.amazon.com/gp/product/B089YS74S2?&linkCode=sl1&tag=0308wfhstuff-20&linkId=18f0093c66f8ed50127a9817798bf6e4&language=en_US&ref_=as_li_ss_tl | Amazon.com: Cell Phone Stand - Adjustable Angle Height Phone Stand for Desk, Foldable Aluminum Desktop Phone Holder, Tablet Stand Compatible for Cell Phone/iPhone/Tablet(Dark Blue)
+
+https://www.google.com/search?q=data+visualization&rlz=1C1SQJL_enUS903US903&sxsrf=ALeKk00FPl4uZ7zJqNnhY1Zaydn6YmkCdA:1614218199676&ei=1wM3YObiKPCw0PEP54SFyA8&start=40&sa=N&ved=2ahUKEwimqoaz94PvAhVwGDQIHWdCAfk4HhDw0wN6BAgEEEc&biw=1267&bih=717 | data visualization - Google Search
+https://www.usnews.com/education/learn-data-visualization-guide | What Data Visualization Is and How to Get Started In This Field | Education | US News
+https://datavizproject.com/ | Data Viz Project | Collection of data visualizations to get inspired and finding the right type.
+https://www.tibco.com/reference-center/guide-to-data-visualization | Guide to Data Visualization | TIBCO Software
+https://looker.com/product/visualizations | Data Visualization Tools & Analytics Software | Looker
+https://www.klipfolio.com/resources/articles/what-is-data-visualization | What is Data Visualization? Definitions, Graph Types and How to Use Them
+https://socviz.co/ | Data Visualization
+https://knowablemagazine.org/article/mind/2019/science-data-visualization | Why scientists need to be better at data visualization
+https://medium.com/nightingale/style-guidelines-92ebe166addc | What Are Data Visualization Style Guidelines? | by Amy Cesal | Nightingale | Medium
+https://www.creativebloq.com/design-tools/data-visualization-712402 | 35 incredible dataviz tools | Creative Bloq
+https://brooks.digital/articles/data-visualization-tools-dont-require-it-support/ | 9 Cheap (or Free) Data Visualization Tools That Don't Require IT Support | Brooks Digital
+https://blog.udacity.com/2015/01/15-data-visualizations-will-blow-mind.html | 15 Data Visualizations That Will Blow Your Mind | Udacity
+https://www.columnfivemedia.com/25-tips-to-upgrade-your-data-visualization-design | 25 Tips to Instantly Improve Your Data Visualization Design
+https://www.tableau.com/learn/articles/data-visualization | What is data visualization? A definition, examples, and resources
+
+https://www.google.com/search?q=data+visualization&rlz=1C1SQJL_enUS903US903&nfpr=1&sxsrf=ALeKk01YEXCp6ejy3XI4Zsaw3dDsj4Dc_A:1614217909592&ei=tQI3YLDRI4z0-gSK_bbgCg&start=60&sa=N&ved=2ahUKEwjw_9yo9oPvAhUMup4KHYq-Daw4MhDw0wN6BAgFEEc&biw=1536&bih=807 | data visualization - Google Search
+https://www.usnews.com/education/learn-data-visualization-guide | What Data Visualization Is and How to Get Started In This Field | Education | US News
+https://www.klipfolio.com/resources/articles/what-is-data-visualization | What is Data Visualization? Definitions, Graph Types and How to Use Them
+https://www.tibco.com/reference-center/guide-to-data-visualization | Guide to Data Visualization | TIBCO Software
+https://datavizproject.com/ | Data Viz Project | Collection of data visualizations to get inspired and finding the right type.
+https://looker.com/platform/directory#viz | Data Analytics Directory | Looker
+https://blog.udacity.com/2015/01/15-data-visualizations-will-blow-mind.html | 15 Data Visualizations That Will Blow Your Mind | Udacity
+https://flowingdata.com/ | FlowingData
+https://knowablemagazine.org/article/mind/2019/science-data-visualization | Why scientists need to be better at data visualization
+https://medium.com/nightingale/style-guidelines-92ebe166addc | What Are Data Visualization Style Guidelines? | by Amy Cesal | Nightingale | Medium
+https://www.creativebloq.com/design-tools/data-visualization-712402 | 35 incredible dataviz tools | Creative Bloq
+https://towardsdatascience.com/9-data-visualization-tools-that-you-cannot-miss-in-2019-3ff23222a927 | 9 Data Visualization Tools That You Cannot Miss in 2019 | by Lewis Chou | Towards Data Science
+https://brooks.digital/articles/data-visualization-tools-dont-require-it-support/ | 9 Cheap (or Free) Data Visualization Tools That Don't Require IT Support | Brooks Digital
+https://www.columnfivemedia.com/25-tips-to-upgrade-your-data-visualization-design | 25 Tips to Instantly Improve Your Data Visualization Design
+https://www.tapclicks.com/resources/blog/the-ultimate-guide-to-data-visualization/ | The Ultimate Guide to Data Visualization: Charts, Graphs, and Everything in Between - TapClicks
+
+https://jamesclear.com/akrasia | The Akrasia Effect: Why We Don’t Follow Through on Things
+https://jamesclear.com/best-articles-2015 | The 10 Best Articles of 2015
+https://jamesclear.com/common-mental-errors | 5 Common Mental Errors That Sway Your Decision Making
+https://jamesclear.com/ivy-lee | The Ivy Lee Method: The Daily Routine for Peak Productivity
+https://jamesclear.com/feynman-mental-models | Mental Models: How to Train Your Brain to Think in New Ways
+https://jamesclear.com/overrated-underrated | Overrated vs. Underrated: Common Beliefs We Get Wrong | James Clear
+https://jamesclear.com/albert-einstein-desk | Albert Einstein’s Incredible Work Ethic and Commitment to Creativity
+https://jamesclear.com/giving-up | 5 Useful Reminders for When You Want to Give Up
+https://jamesclear.com/paper-clips | How to Stick With Good Habits Every Day with the Paper Clip Strategy
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf | Habits+Cheat+Sheet.pdf
+https://jamesclear.com/habit-tracker | The Ultimate Habit Tracker Guide: Why and How to Track Your Habits | James Clear
+
+http://r-statistics.co/adv-regression-models.html | Advanced Regression Models
+http://r-statistics.co/ggplot2-cheatsheet.html | ggplot2 Quick Reference
+https://rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf | ggplot2-cheatsheet-2.0
+https://stats.idre.ucla.edu/r/faq/how-can-i-see-what-data-sets-are-available-when-i-start-r/ | How can I see what data sets are available when I start R? | R FAQ
+
+file:///C:/Program%20Files/texstudio/help/usermanual_en.html#SECTION112 | TeXstudio : user manual
+http://www.ams.org/arc/tex/amsmath/amsldoc.pdf | amsldoc.pdf
+https://blog.typeset.io/the-only-latex-editor-guide-youll-need-in-2018-e63868fae027 | The Only LaTeX Editor Guide You Will Need In 2019 | by Debdut Mukherjee | Typeset Blog
+https://www.overleaf.com/learn/latex/Multiple_columns | Multiple columns - Overleaf, Online LaTeX Editor
+https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath | Aligning equations with amsmath - Overleaf, Online LaTeX Editor
+https://www.overleaf.com/learn/latex/Spacing_in_math_mode | Spacing in math mode - Overleaf, Online LaTeX Editor
+https://bookdown.org/ | Home | Bookdown
+https://www.stat.cmu.edu/~cshalizi/rmarkdown/ | Using R Markdown for Class Reports
+https://pages.github.com/ | GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+https://jekyllrb.com/ | Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs
+http://detexify.kirelabs.org/classify.html | Detexify LaTeX handwritten symbol recognition
+https://en.wikibooks.org/wiki/LaTeX | LaTeX - Wikibooks, open books for an open world
+https://www.overleaf.com/learn/latex/Display_style_in_math_mode | Display style in math mode - Overleaf, Online LaTeX Editor
+
+https://roguehealthandfitness.com/ | Rogue Health and Fitness
+https://lifehacker.com/the-akrasia-effect-why-we-make-plans-and-dont-follow-t-1752799091 | The Akrasia Effect: Why We Make Plans but Don't Follow Through
+https://www.google.com/search?q=atomic+habits&rlz=1C1SQJL_enUS903US903&oq=atomic+habits&aqs=chrome..69i57j46i433j0i433j0j0i433l2j0j69i60.5184j0j1&sourceid=chrome&ie=UTF-8 | atomic habits - Google Search
+https://personalmba.com/working-with-yourself/ | Working With Yourself - The Personal MBA
+https://www.google.com/search?q=dealing+with+akrasia&rlz=1C1SQJL_enUS903US903&oq=dealing+with+akrasia&aqs=chrome..69i57.3239j0j4&sourceid=chrome&ie=UTF-8 | dealing with akrasia - Google Search
+
+https://www.r-bloggers.com/2019/05/emayili-sending-email-from-r/ | emayili: Sending Email from R | R-bloggers
+https://curl.se/book.html | Everything curl
+https://www.r-bloggers.com/2019/04/mailr-smtp-setup-gmail-outlook-yahoo-starttls/ | MailR SMTP Setup (Gmail, Outlook, Yahoo) | STARTTLS | R-bloggers
+http://lib.stat.cmu.edu/R/CRAN/ | The Comprehensive R Archive Network
+https://github.com/jennybc/send-email-with-r#readme | GitHub - jennybc/send-email-with-r: How to send a bunch of email from R
+https://cran.r-project.org/web/packages/gmailr/vignettes/gmailr.html | gmailr
+https://jennybc.github.io/purrr-tutorial/ex20_bulk-gmail.html | Send email via Gmail API
+https://yihui.org/knitr/demo/upload/ | Upload images - Publish images from chunks in the web - Yihui Xie | 谢益辉
+https://github.com/yihui/knitr-examples/blob/master/010-upload.Rmd | knitr-examples/010-upload.Rmd at master · yihui/knitr-examples · GitHub
+https://github.com/yihui/knitr-examples/blob/master/010-upload.md | knitr-examples/010-upload.md at master · yihui/knitr-examples · GitHub
+https://github.com/rstudio/blastula | GitHub - rstudio/blastula: Easily send great-looking HTML email messages from R
+https://github.com/rstudio/blastula/blob/master/R/creds_helpers.R | blastula/creds_helpers.R at master · rstudio/blastula · GitHub
+https://rdrr.io/cran/blastula/src/R/create_credentials.R | blastula source: R/create_credentials.R
+
+https://mail.google.com/mail/u/0/#inbox | Inbox (10,565) - bob.mcquaid@pepperdine.edu - Pepperdine University Mail
+https://mail.google.com/mail/u/1/#inbox | Inbox (3,484) - drmcquaid@gmail.com - Gmail
+https://calendar.google.com/calendar/u/0/r/month/2021/2/1 | Pepperdine University - Calendar - February 2021
+https://pepperdine-ca.safecolleges.com/training/launch/course_work/D6B6BD24-6633-11EB-869A-2EA06C610958 | SafeColleges Training :: Sexual Harassment: Policy and Prevention (California AB1825 Full) :: Course
+https://medium.com/learntrain/25-websites-that-will-make-you-incredibly-smarter-9dfe991cac18 | 25 Websites That Will Make You Incredibly Smarter | by SJ | LearnTrain | Medium
+https://www.twilio.com/sms/pricing/us | SMS Pricing for Text Messaging - Twilio
+https://jrmcquaidjr.imgur.com/all/ | jrmcquaidjr's uploaded images - Imgur
+https://macpaw.com/cleanmypc | CleanMyPC: Best PC Cleaner. Optimize and Clean My PC.
+https://www.ziflow.com/blog/video-production-workflow | 5-Step Video Production Workflow Guide for 2020
+https://learningsolutionsmag.com/articles/video-clinic-fast-training-video-creation-workflow | Video Clinic: Fast Training Video Creation Workflow | Learning Solutions Magazine
+
+https://www.linkedin.com/learning/r-essential-training-wrangling-and-visualizing-data/importing-data-from-a-spreadsheet?u=75281570 | Importing data from a spreadsheet
+https://www.linkedin.com/learning/r-essential-training-wrangling-and-visualizing-data/navigating-the-rstudio-environment?u=75281570 | Navigating the RStudio environment
+https://rstudio.com/resources/webinars/working-with-big-data-in-r/ | Working with Big Data in R - RStudio
+https://github.com/rstudio/webinars/blob/master/14-Work-with-big-data/webinar.R | webinars/webinar.R at master · rstudio/webinars · GitHub
+https://github.com/Apress/applied-analytics-case-studies-sas-r/blob/master/Chapter_04_churn_dataset | applied-analytics-case-studies-sas-r/Chapter_04_churn_dataset at master · Apress/applied-analytics-case-studies-sas-r · GitHub
+https://www.youtube.com/watch?v=ivP4zUIb6Sw&list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv&index=29 | (1) How to send email with R and Gmail - YouTube
+https://rmarkdown.rstudio.com/docs/reference/render.html | Render R Markdown — render • rmarkdown
+https://www.sli.do/ | Slido - Audience Interaction Made Easy
+https://automatetheboringstuff.com/2e/chapter18/ | Automate the Boring Stuff with Python
+https://www.infoworld.com/article/3398701/how-to-send-email-from-r-and-gmail.html | How to send email from R and Gmail | InfoWorld
+https://www.infoworld.com/video/series/8563/do-more-with-r?sourcePath=morewithR | InfoWorld | Do More with R
+https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html | Create Awesome HTML Table with knitr::kable and kableExtra
+https://hackernoon.com/practical-machine-learning-ridge-regression-vs-lasso-a00326371ece | Practical machine learning: Ridge Regression vs. Lasso | Hacker Noon
+
+https://www.r-bloggers.com/2021/01/simple-easy-beginners-web-scraping-in-r-with-ralger/ | Simple Easy Beginners Web Scraping in R with {ralger} | R-bloggers
+https://www.r-bloggers.com/2015/12/how-to-write-the-first-for-loop-in-r/ | For loop in R - a step-by-step tutorial | R-bloggers
+https://www.r-bloggers.com/2021/01/7-must-have-skills-to-get-a-job-as-a-data-scientist/ | 7 Must-Have Skills to Get a Job as a Data Scientist | R-bloggers
+https://www.r-bloggers.com/2016/11/5-ways-to-subset-a-data-frame-in-r/ | 5 Ways to Subset a Data Frame in R | R-bloggers
+https://www.r-bloggers.com/2021/01/simple-easy-beginners-web-scraping-in-r-with-ralger/ | Simple Easy Beginners Web Scraping in R with {ralger} | R-bloggers
+https://www.sublimetext.com/ | Sublime Text - A sophisticated text editor for code, markup and prose
+https://www.r-bloggers.com/2016/12/how-to-send-bulk-email-to-your-students-using-r/ | How to send bulk email to your students using R | R-bloggers
+
+https://github.com/rstudio/blastula | GitHub - rstudio/blastula: Easily send great-looking HTML email messages from R
+http://lib.stat.cmu.edu/R/CRAN/web/packages/blastula/vignettes/simple_composition.html | Simple Email Composition
+http://lib.stat.cmu.edu/R/CRAN/web/packages/blastula/vignettes/sending_using_smtp.html | Sending Email Using SMTP
+http://r-statistics.co/R-Tutorial.html | R Tutorial
+https://blog.rstudio.com/2019/12/05/emails-from-r-blastula-0-3/ | Emails from R: Blastula 0.3 | RStudio Blog
+https://www.r-bloggers.com/2019/09/how-to-send-custom-e-mails-with-r/ | How to Send Custom E-mails with R | R-bloggers
+https://www.r-bloggers.com/2017/04/emails-from-r/ | Emails from R | R-bloggers
+https://www.youtube.com/watch?v=30lGSyZL3DM | How to create Ultimate Excel Gantt Chart for Project Management - YouTube
+
+https://latex.codecogs.com/eqneditor/editor.php | Online LaTeX Equation Editor - create, integrate and download
+
+https://aws.amazon.com/?nc2=h_lg | Amazon Web Services (AWS) - Cloud Computing Services
+https://azure.microsoft.com/en-us/ | Cloud Computing Services | Microsoft Azure
+https://cloud.google.com/ | Cloud Computing Services  |  Google Cloud
+https://www.w3schools.com/python/default.asp | Python Tutorial
+https://insights.stackoverflow.com/survey/2018/#most-loved-dreaded-and-wanted | Stack Overflow Developer Survey 2018
+https://whatsthebigdata.files.wordpress.com/2012/08/big-data-hype-cycle-aug2012.jpg | big-data-hype-cycle-aug2012.jpg (1024×667)
+https://www.datasciencecentral.com/profiles/blogs/big-data-falls-off-the-hype-cycle | Big Data Falls Off the Hype Cycle - Data Science Central
+https://www.google.com/search?q=iaas+saas+paas+diagram&rlz=1C1SQJL_enUS903US903&sxsrf=ALeKk01QknaRYjCXLrx6IMG4vs_kN0TGaA:1611202654783&tbm=isch&source=iu&ictx=1&fir=xeoyMpwKk8H5EM%252Co_UmvfGXvCvJ9M%252C_&vet=1&usg=AI4_-kQm5JXO4jpmpG4Ol5Or1701vTdf1Q&sa=X&ved=2ahUKEwi3x5jPlazuAhXRJzQIHUkODGcQ9QF6BAgREAE&biw=766&bih=799#imgrc=xeoyMpwKk8H5EM | iaas saas paas diagram - Google Search
+https://dachou.github.io/2018/09/28/cloud-service-models.html | Cloud Service Models (IaaS, PaaS, SaaS) Diagram | David Chou
+
+https://www.statmethods.net/stats/regression.html | Quick-R: Multiple Regression
+https://www.statmethods.net/stats/rdiagnostics.html | Quick-R: Regression Diagnostics
+https://www.datacamp.com/courses/free-introduction-to-r | Introduction to R Online Course | DataCamp
+https://www.tutorialspoint.com/r/r_logistic_regression.htm | R - Logistic Regression - Tutorialspoint
+https://daviddalpiaz.github.io/appliedstats/multiple-linear-regression.html#nested-models | Chapter 9 Multiple Linear Regression | Applied Statistics with R
+https://daviddalpiaz.github.io/appliedstats/introduction-to-r.html | Chapter 2 Introduction to R | Applied Statistics with R
+https://bookdown.org/yihui/bookdown/collaboration.html | 5.5 Collaboration | bookdown: Authoring Books and Technical Documents with R Markdown
+https://rstudio.com/resources/cheatsheets/ | RStudio Cheatsheets - RStudio
+https://bookdown.org/yihui/bookdown/r-and-r-packages.html | A.1 R and R packages | bookdown: Authoring Books and Technical Documents with R Markdown
+https://bookdown.org/yihui/bookdown/pandoc.html | A.2 Pandoc | bookdown: Authoring Books and Technical Documents with R Markdown
+https://pandoc.org/releases.html | Pandoc - Releases
+https://bookdown.org/yihui/bookdown/latex.html | A.3 LaTeX | bookdown: Authoring Books and Technical Documents with R Markdown
+https://rmarkdown.rstudio.com/lesson-3.html | Code Chunks
+https://login.rstudio.cloud/login?redirect=%2Foauth%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Frstudio.cloud%252Flogin%26client_id%3Drstudio-cloud%26response_type%3Dcode%26show_auth%3D0%26show_login%3D0%26show_setup%3D1&setup=True | RStudio
+https://moderndive.com/10-inference-for-regression.html | Chapter 10 Inference for Regression | Statistical Inference via Data Science
+https://moderndive.com/6-multiple-regression.html | Chapter 6 Multiple Regression | Statistical Inference via Data Science
+https://www.w3schools.com/datascience/ | Data Science Tutorial
+http://lib.stat.cmu.edu/R/CRAN/ | The Comprehensive R Archive Network
+https://cran.r-project.org/web/packages/olsrr/vignettes/regression_diagnostics.html | Collinearity Diagnostics, Model Fit & Variable Contribution
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners | An Intro to Git and GitHub for Beginners (Tutorial)
+https://calendar.google.com/calendar/u/0/r | Pepperdine University - Calendar - January 2021
+
+https://courses.pepperdine.edu/portal/?returnPath= | Courses : Gateway : Welcome
+http://silverdecisions.pl/ | SilverDecisions
+https://www.jetbrains.com/pycharm-edu/ | PyCharm Edu
+https://community.pepperdine.edu/it/students/newstudents/student-discount.htm | Student Discounts | Pepperdine University | Pepperdine Community
+https://www.microsoft.com/en-us/microsoft-365 | Microsoft 365 with Office apps | Microsoft 365
+https://www.microsoft.com/en-us/education/products/office/default.aspx | Free Microsoft Office 365 for Schools & Students | Microsoft Education
+https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1 | Compare Office 365 Education Plans
+
+https://mail.google.com/mail/u/0/#inbox | Inbox (10,315) - bob.mcquaid@pepperdine.edu - Pepperdine University Mail
+https://voice.google.com/u/0/calls?itemId=c.CihMUE1STlNNVVJTS1RJWVVNVlVXWkhaT05TVFdZUktYVEdaUEpWVVJMEAE | Voice - ‪(626) 696-5228‬
+https://www.dickssportinggoods.com/p/footjoy-mens-2020-pro-sl-golf-shoes-19fjymprsl20gryxwgsh/19fjymprsl20gryxwgsh?color=Navy | FootJoy Men's 2020 Pro/SL Golf Shoes | DICK'S Sporting Goods
+https://pepperdine.zoom.us/j/85044645771#success | Launch Meeting - Zoom
+https://voice.google.com/u/0/messages?itemId=t.%2B18182913817 | Voice - ‪(818) 291-3817‬
+https://techcommunity.microsoft.com/t5/microsoft-teams/teams-calendar-synchronization-with-google-calendar/m-p/1163000 | Teams calendar synchronization with google calendar - Microsoft Tech Community
+https://www.spinlister.com/blog/mt-hollywood-trail-biking-las-largest-park-griffith-observatory/ | Mt Hollywood Trail: Biking LA’s Largest Park To Griffith Observatory
+https://media.timeout.com/images/102528220/image.jpg | image.jpg (3000×2258)
+https://hyperskill.org/onboarding/ | Learn Computer Science – JetBrains Academy
+https://www.jetbrains.com/shop/download/PS/2020300 | Download PhpStorm 2020.3.1
+https://www.tableau.com/academic/students?utm_campaign=Awareness-OTHER-ACAD-PROF-ALL-ALL&utm_medium=Vendor%20Email&utm_source=Inside%20Higher%20Ed&utm_campaign_id=2017059&utm_language=EN | Tableau for Students
+https://www.tableau.com/academic/teaching?elqFormSubmitted=1 | Tableau for Teaching
+https://mail.google.com/mail/u/1/#inbox | Inbox (3,424) - drmcquaid@gmail.com - Gmail
+https://www.bicycling.com/bikes-gear/a20050631/how-to-choose-an-indoor-bike-trainer/ | Best Bike Trainers 2021 | Indoor Cycling Bikes
+https://aws.amazon.com/cloudformation/ | AWS CloudFormation - Infrastructure as Code & AWS Resource Provisioning
+https://learning.acm.org/techtalks-archive | TechTalks Archive
+https://www.youtube.com/watch?v=5qtSioTE2wY | Interactive Excel Project Management Dashboard - FREE Download - YouTube
+https://www.myonlinetraininghub.com/excel-project-management-dashboard | Excel Project Management Dashboard • My Online Training Hub
+https://www.myonlinetraininghub.com/excel-formulas | Excel Formulas • My Online Training Hub
+https://www.linkedin.com/learning/learning-amazon-web-services-aws-quicksight/understand-your-data-with-quicksight?u=75281570 | Understand your data with QuickSight
+https://aws.amazon.com/getting-started/?sc_channel=em&sc_campaign=wlcm&sc_publisher=aws&sc_medium=em_wlcm_1&sc_detail=wlcm_1d&sc_content=other&sc_country=global&sc_geo=global&sc_category=mult&ref_=pe_1679150_261538020 | Getting Started with Amazon Web Services (AWS)
+https://www.jetbrains.com/phpstorm/documentation/ | Docs & Demos - Documentation | PhpStorm
+https://www.google.com/search?rlz=1C1SQJL_enUS903US903&biw=1920&bih=969&tbm=shop&sxsrf=ALeKk02aok23M2DJFuXeb7lfdRbiibWFDA%3A1610826255210&ei=D0IDYO2sDPzO0PEPx6aGgAI&q=bulk+white+vinegar+%285+gallon%29&oq=white+vinegar+5-gallon&gs_lcp=Cgtwcm9kdWN0cy1jYxABGAIyBAgjECcyBAgAEB4yBggAEAUQHjIICAAQBRAeEBgyCAgAEAgQHhAYMggIABAIEB4QGDIFCAAQzQJQAFgAYOUQaABwAHgAgAE-iAE-kgEBMZgBAKoBD3Byb2R1Y3RzLWNjLXdpesABAQ&sclient=products-cc | bulk white vinegar (5 gallon) - Google Shopping
+https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking-ebook-dp-B00E6EQ3X4/dp/B00E6EQ3X4/ref=mt_other?_encoding=UTF8&me=&qid= | Amazon.com: Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking eBook: Provost, Foster, Fawcett, Tom: Kindle Store
+https://www.amazon.com/s?k=bathroom+mirror+adjustable+arm&crid=2IHSI1BQZW3FV&sprefix=bathroom+mirror+adjus%2Caps%2C187&ref=nb_sb_ss_ts-a-p_1_21 | Amazon.com : bathroom mirror adjustable arm
+https://pepperdine.on.worldcat.org/search?ai=wclocal_pepperdine&queryString=Data+Science+for+Business&oldscope=#/oclc/844460899 | Item Details for Data science for business : [what you need to know about data mining and data-analytic thinking]
+https://www.youtube.com/watch?v=g-gNrzvC_hA | Attach Garden Hose To Shower Arm without Removing Shower Head - YouTube
+https://www.amazon.com/ref=nav_logo | Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+https://www.amazon.com/s?keywords=Men%27s+Golf+Shoes&i=fashion-mens-shoes&bbn=679278011&rh=n%3A679278011%2Cp_36%3A2661615011&dc&_encoding=UTF8&c=ts&qid=1610925703&rnid=2661611011&ts_id=679278011&ref=sr_nr_p_36_4 | Amazon.com : Men's Golf Shoes
+https://trumpexcel.com/step-chart-in-excel/ | Step Chart in Excel - A Step by Step Tutorial
+
+https://obsidian.md/publish | Obsidian Publish
+https://publish.obsidian.md/santi/%E2%A7%89+astronaut+start+sailor | ⧉ astronaut start sailor - Santi Younger Notes - Obsidian Publish
+https://www.remnote.io/about | RemNote | About
+
+https://www.bsoundarya.com/part-iii-building-a-second-brain%E2%80%8A-%E2%80%8Ausing-notion-and-roam-research/ | Part III: Building A Second Brain — Using Notion and Roam Research - Soundarya Balasubramani
+https://workflowy.com/ | A simpler way to organize your work - WorkFlowy
+https://dynalist.io/why | Why Dynalist? - Dynalist
+https://www.moo.do/premium | Moo.do - Premium
+https://radreads.co/atomic-habits-james-clear/ | Atomic Habits by James Clear: Summary and Book Review [PDF]
+https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei?hl=en | Weava Highlighter - PDF & Web - Chrome Web Store
+https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004 | Help & Support
+
+https://www.notion.so/Writing-editing-basics-68c7c67047494fdb87d50185429df93e#73916b435b674a85b10a165e96d1114e | Writing & editing basics
+https://medium.com/@lloydwilliams.co/notion-as-a-para-based-second-brain-part-one-869dc4ed2af3 | Notion as a PARA-based Second Brain — Part One | by Lloyd Williams | Medium
+https://thomasjfrank.com/templates/notion-note-taking-template/ | The Ultimate Note-Taking Template for Notion
+
+https://www.youtube.com/watch?v=4YspgkLRsrs | (16) GTD Notion: How to get MORE things done in Notion - YouTube
+https://www.automateexcel.com/vba-code-generator#Pricing | VBA Code Generator - Automate Excel
+https://medium.com/swlh/how-to-use-notion-for-research-6003ed8cc07b | How to use Notion Note-taking Application for Research — One Zero Blog | by Rahul Raoniar | The Startup | Medium
+https://sloanreview.mit.edu/article/why-chief-data-officers-must-assume-leadership-for-data-success/?og=Home+Editors+Picks | Why Chief Data Officers Must Assume Leadership for Data Success
+https://sloanreview.mit.edu/article/data-governance-in-the-21st-century-organization/?og=Operations+Tiled | Data Governance in the 21st-Century Organization
+https://provalisresearch.com/resources/tutorials/ | Provalis Research Text Analytics Tools - Video tutorials
+https://provalisresearch.com/products/qualitative-data-analysis-software/ | Qualitative Data Analysis Software, Mixed Methods Research Tool
+https://www.notion.so/Getting-Started-26bf20d53600466ab9212935cabef190 | Getting Started
+https://typely.com/ | Free online proofreading and essay editor
+https://www.measurementinc.com/products-services/automated-essay-scoring | Automated Essay Scoring | Measurement Incorporated
+https://www.ets.org/erater/about | About the e-rater Scoring Engine
+https://www.humanresourcestoday.com/adp/learning-management/ | ADP and Learning Management - Human Resources Today
+https://www.adp.com/~/media/Datasheets/LearningManagementFactSheet_F.ashx | LearningManagementFactSheet_F.ashx
+
+https://thesweetsetup.com/a-beginners-guide-to-notion/ | A Beginner's Guide to Notion – The Sweet Setup
+https://www.youtube.com/watch?v=j30bABy2BHA | (11) BEGINNER'S GUIDE TO NOTION | Detailed Notion Tutorial of All The Key Functionality of Notion - YouTube
+https://stackoverflow.com/questions/11990465/vba-copy-sheet-to-end-of-workbook-with-hidden-worksheets | excel - VBA Copy Sheet to End of Workbook (with Hidden Worksheets) - Stack Overflow
+https://2pep.onlinebusiness.pepperdine.edu/ap/#/meetings | Meetings
+https://zoom.us/postattendee?id=34 | Post Attendee - Zoom
+https://mail.google.com/mail/u/0/#inbox | Inbox (13,279) - bob.mcquaid@pepperdine.edu - Pepperdine University Mail
+https://calendar.google.com/calendar/u/0/r | Pepperdine University - Calendar - December 2020
