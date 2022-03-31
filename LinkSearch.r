@@ -3,24 +3,20 @@ install.packages('readr')
 library('readr')
 
 rawInput <- readLines("list.txt")
-# rawInput[5]
 
-# rawInput1 <- paste(rawInput, collapse = " \n ")
+address <- vector(mode="character", length=length(rawInput))
+name <- vector(mode="character", length=length(rawInput))
 
-# rawInputByLine <- readLines("list.txt", n = 5)
+for(i in 1:length(rawInput)) {
+  address[i] <- str_split_fixed(rawInput[i]," \\| ",2)[1]
+  name[i] <-str_split_fixed(rawInput[i]," \\| ",2)[2]
+}
 
-df <- data.frame(rawInput)
+df <- data.frame(name, address,rawInput)
 
+df[!apply(df == "", 1, all), ]
+df <- df[!apply(df == "", 1, all),]
 
-# df$address <- ""
-# df$name <- ""
+df$name[1] <- "Regular Expression Tutorial github"
 
-# df$addr <- str_split_fixed(df$rawInput[], " \\| ", 2)[1]
-# df$nm <- str_split_fixed(df$rawInput[], " \\| ", 2)[2]
-
-# test <- df$rawInput[4]
-test1 <- str_locate(test, " \\| ")
-# str(test1)
-
-# df1 <- str_split_fixed(test, " \\| ", 2)[1]
 
